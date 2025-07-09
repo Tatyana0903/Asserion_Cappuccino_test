@@ -1,1 +1,1 @@
-# Asserion_Cappuccino_test
+Playwright: Practice task for Coffee Cart application testing. 
